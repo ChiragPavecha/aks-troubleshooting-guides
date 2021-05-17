@@ -1,14 +1,6 @@
-# Project
+# Azure Kubernetes Service (AKS) Troubleshooting Guides
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
-
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+This is a public repository housing Azure Kubernetes Service's troubleshooting guides, and is intended to provide a central location for community driven troubleshooting content. This is the material that is referenced by Customer Support Services when a ticket is created, by engineers responding to an incident, and by users when self discovering resolutions to active system issues.
 
 ## Contributing
 

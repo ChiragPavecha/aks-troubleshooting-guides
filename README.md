@@ -1,6 +1,6 @@
 # Azure Kubernetes Service (AKS) Troubleshooting Guides
 
-This is a public repository housing Azure Kubernetes Service's troubleshooting guides, and is intended to provide a central location for community driven troubleshooting content. This is the material that is reference by Customer Support Services when a ticket is created, by engineers responding to an incident, and by users when self discovering resolutions to active system issues.
+This is a public repository housing Azure Kubernetes Service's troubleshooting guides, and is intended to provide a central location for community driven troubleshooting content. This is the material that is referenced by Customer Support Services when a ticket is created, by engineers responding to an incident, and by users when self discovering resolutions to active system issues.
 
 ## Contributing
 
